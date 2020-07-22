@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **check my instagram**
 
-- ⚡ Fun fact **<coffee> Code </coffee>**
+- ⚡ Fun fact ** <coffee> Code </coffee> **
 
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
