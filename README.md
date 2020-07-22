@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nina 👩🏻‍💻</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=codingwithnina" alt="codingwithnina" /> </p>
 <h3 align="center">A self-taught frontend developer 🧙🏻‍♂️ with a pinch of a design ✨ talent</h3>
 
-<h5> Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others .. Some of the technologies I enjoy working with include  ReactJS,  UI/UX samples and prototypes using Figma. </h5>
+<h5> Passionate towards learning and designing minimalistic UI/UX. Love sharing my knowledge and my insights of learning with others.. Some of the technologies I enjoy working with include CSS, SASS, ReactJS,  UI/UX samples and prototypes using Figma. </h5>
 
 - 👯 I’m looking to collaborate on **cool ideas**
 
