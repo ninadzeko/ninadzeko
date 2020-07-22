@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nina 👩🏻‍💻</h1>
+<h1 align="center">Hi 👋, I'm Nina 👩🏻‍💻</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=codingwithnina" alt="codingwithnina" /> </p>
 <h3 align="center">A self-taught frontend developer 🧙🏻‍♂️ with a pinch of a design ✨ talent</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=codingwithnina" alt="codingwithnina" /> </p>
 
 <h4> Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others .. Some of the technologies I enjoy working with include  ReactJS,  UI/UX samples and prototypes using Figma. </h6>
 
@@ -12,7 +11,12 @@
 
 - ⚡ Fun fact I :heart: BEM
 
-:hammer_and_pick:  Still learning..  :construction:
+
+<p align="center">
+:hammer_and_pick:  
+Still learning.. 
+:construction:
+</p>
 
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -20,8 +24,8 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
-
 <p align="right">
+ Find me on :
 <a href="https://instagram.com/nina.codes" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nina.codes" height="40" width="40" />
 </a>
