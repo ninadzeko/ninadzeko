@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithnina" alt="codingwithnina" /> </p>
 
-- 👯 I’m looking to collaborate on **cool projects**
+- 👯 I’m looking to collaborate on **cool ideas**
 
 - 👨‍💻 All of my projects are available here
 
-- 📫 How to reach me **check my instagram**
+- 📫 If you want to reach me, **check my instagram**
 
 - ⚡ Fun fact I :heart: BEM
 
