@@ -9,17 +9,19 @@
 
 - 📫 How to reach me **check my instagram**
 
-- ⚡ Fun fact ** <coffee> Code </coffee> **
+- ⚡ Fun fact I :heart: BEM
 
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-</p>
-<p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=codingwithnina&show_icons=true" alt="codingwithnina" /> 
-</p>
+</p> 
+
+:hammer_and_pick: 
+Still learning..
+:construction:
+
 
 <p align="center">
 <a href="https://instagram.com/nina.codes" target="blank">
