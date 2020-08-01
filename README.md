@@ -19,7 +19,7 @@ Still learning..
 </p>
 
 <p align="left">
-  <img src="https://image.flaticon.com/icons/svg/226/226269.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://image.flaticon.com/icons/svg/919/919827.svg" alt="html5" width="40" height="40"/> 
   <img src="https://image.flaticon.com/icons/svg/919/919826.svg" alt="css3" width="40" height="40"/> 
   <img src="https://image.flaticon.com/icons/svg/541/541509.svg" alt="javascript" width="40" height="40"/>
   <img src="https://image.flaticon.com/icons/png/512/1183/1183672.png" alt="react" width="40" height="40"/> 
