@@ -19,10 +19,10 @@ Still learning..
 </p>
 
 <p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://image.flaticon.com/icons/svg/226/226269.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://image.flaticon.com/icons/svg/919/919826.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://image.flaticon.com/icons/svg/541/541509.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://image.flaticon.com/icons/png/512/1183/1183672.png" alt="react" width="40" height="40"/> 
 </p>
 <p align="right">
  Find me on :
