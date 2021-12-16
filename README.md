@@ -21,15 +21,12 @@ Much more to learn..see you around!  👋🏻
 <p align="left">
   <img src="https://image.flaticon.com/icons/svg/919/919827.svg" alt="html5" width="40" height="40"/> 
   <img src="https://image.flaticon.com/icons/svg/919/919826.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://image.flaticon.com/icons/svg/541/541509.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/541/541509.png" alt="javascript" width="40" height="40"/>
   <img src="https://image.flaticon.com/icons/png/512/1183/1183672.png" alt="react" width="40" height="40"/> 
 </p>
 <p align="right">
  Find me on :
 <a href="https://instagram.com/nina.codes" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nina.codes" height="40" width="40" />
-</a>
-<a href="https://medium.com/@developer.journeys" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@developer.journeys" height="40" width="40" />
-</a>
+  </a>
 </p>
