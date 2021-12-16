@@ -19,8 +19,8 @@ Much more to learn..see you around!  👋🏻
 </p>
 
 <p align="left">
-  <img src="https://image.flaticon.com/icons/svg/919/919827.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://image.flaticon.com/icons/svg/919/919826.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="html5" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/128/888/888847.png" alt="css3" width="40" height="40"/> 
   <img src="https://cdn-icons-png.flaticon.com/512/541/541509.png" alt="javascript" width="40" height="40"/>
   <img src="https://image.flaticon.com/icons/png/512/1183/1183672.png" alt="react" width="40" height="40"/> 
 </p>
