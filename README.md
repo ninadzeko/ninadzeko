@@ -1,32 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nina 👩🏻‍💻</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=codingwithnina" alt="codingwithnina" /> </p>
-<h3 align="center">A self-taught frontend developer 🧙🏻‍♂️ with a passion for visual identity ✨</h3>
+## Hi, I'm Nina. 👩🏻‍💻
 
-<h5> Passionate towards learning and designing minimalistic UI/UX. Love sharing my knowledge and my insights of learning with others.. Some of the technologies I enjoy working with include CSS, SASS, ReactJS, UI/UX samples and prototypes using Figma.</h5>
+I'm Nina, a 33 year old self-taught frontend developer with a passion for visual identity.
 
-- 👯 I’m looking to collaborate on **cool ideas**
+Although I have diploma in physical therapy, in October 2019 I decided it was time for a change. I started to study to become frontend developer (HTML, CSS and JS) before going into work. I quickly started to love it and I decided to take the risk with going in full time. My studies were my prime task until July 2020, when I landed my
+first job. Started as intern and now I work as Junior Developer. 
 
-- 👨‍💻 All of my projects are available here
+I'm passionate towards learning and minimalistic design. Love sharing my knowledge and my insights of learning with others.. I'm hard working, super curious, passionate, committed and a fast learner!
 
-- 📫 If you want to reach me, **check my instagram**
-
-- ⚡ Fun fact I :heart: BEM
-
-
-<p align="center">
-:hammer_and_pick:  
-Much more to learn..see you around!  👋🏻
-:construction:
-</p>
-
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="html5" width="40" height="40"/> 
-  <img src="https://cdn-icons-png.flaticon.com/128/888/888847.png" alt="css3" width="40" height="40"/> 
-  <img src="https://cdn-icons-png.flaticon.com/512/541/541509.png" alt="javascript" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/png/512/1183/1183672.png" alt="react" width="40" height="40"/> 
-</p>
-<p align="right">
- Find me on :
-<a href="https://instagram.com/nina.codes" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nina.codes" height="40" width="40" />
-  </a>
-</p>
+[nina.codes](https://instagram.com/nina.codes)
