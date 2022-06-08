@@ -6,6 +6,6 @@ Although I have diploma in physical therapy, in October 2019 I decided it was ti
 
 I'm passionate towards learning new tehnologies and minimalistic design. Love sharing my knowledge and my insights of learning with others.. I'm hard working, super curious, passionate, committed and a fast learner!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninadzeko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninadzeko&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
-[nina.codes](https://instagram.com/nina.codes) or [twitter](https://twitter.com/ninaxweb3)
+Find me on -> [nina.codes](https://instagram.com/nina.codes) or [twitter](https://twitter.com/ninaxweb3)
