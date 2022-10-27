@@ -1,4 +1,4 @@
-## Hi, I'm Nina. 👩🏻‍💻
+## 👋🏻 👩🏻‍💻
 
 I'm Nina, a 34 years old self-taught frontend developer with a passion for visual identity.
 
