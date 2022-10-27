@@ -8,4 +8,4 @@ I'm passionate towards learning new tehnologies and minimalistic design. Love sh
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninadzeko&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
-Find me on -> [nina.codes](https://instagram.com/nina.codes) or [twitter](https://twitter.com/ninaxweb3)
+Find me on -> [instagram](https://instagram.com/nina.codes) or [twitter](https://twitter.com/ninaxweb3)
